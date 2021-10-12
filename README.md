@@ -8,22 +8,22 @@
 
 Machine design project to make a spaceship from Star Wars.
 
-I chose the X-wing spaceship. The X-wing is a class of starfighter used by the Rebel Alliance in their conflict with the Galactic Empire. His name comes from his X shape when his wings are spread. Furthemore the X-wing spaceship is one the most iconic spaceship of the saga. The X-wing allowed the Rebellion to launch raids in Imperial space with improved odds of a successful mission.
+I chose the X-wing spaceship. The X-wing is a class of **starfighter** used by the Rebel Alliance in their conflict with the Galactic Empire. His name comes from his X shape when his wings are spread. Furthemore the X-wing spaceship is one the most iconic spaceship of the saga. The X-wing allowed the **Rebellion** to launch raids in Imperial space with improved odds of a successful mission.
 
 
 <br/>
 
 ## Specifications
 
-* Manufacturer : Incom Corporation
-* Line : X-wing starfighter
-* Model : T-65
-* Class : Starfighter
-* Length : 12.5 meters long
-* Maximum speed : 100 MGLT, 1 050 km/h atmospheric speed
-* Armement : 4 laser cannons Taim & Bak KX9, 2 proton torpedo launchers Krupx MG7
-* Shielding : Equipped 
-* Crew : 1 Pilot, 1 Astromech droid
+* **Manufacturer** : Incom Corporation
+* **Line** : X-wing starfighter
+* **Model** : T-65
+* **Class** : Starfighter
+* **Length** : 12.5 meters long
+* **Maximum speed** : 100 MGLT, 1 050 km/h atmospheric speed
+* **Armement** : 4 laser cannons Taim & Bak KX9, 2 proton torpedo launchers Krupx MG7
+* **Shielding** : Equipped 
+* **Crew** : 1 Pilot, 1 Astromech droid
 
 <p align="left"> 
   <img src=https://user-images.githubusercontent.com/63778269/136938199-a0aef6a3-adeb-4e30-8a03-e5ff38cbbd26.PNG width=400/>
@@ -35,9 +35,9 @@ I chose the X-wing spaceship. The X-wing is a class of starfighter used by the R
 ## 3D  Model
 
 I tried to use many different features like : extruded cut, extruded boss/base, revolved boss/base, lofted boss/base, fillet, draft, symetry, linear/circular pattern, revolved cut, dome.
-Total features : more than 300
+**Total features** : more than 300
 
-The X shape of the X wing made the modeling easier. I just had to do the body and one wing. Then using the symetry i just had to replicate the wing to have the 4 wings of the spaceship.
+The X shape of the X wing made the modeling easier. I just had to do the body and one wing. Then using the **symetry** i just had to replicate the wing to have the 4 wings of the spaceship.
 
 <br/>
 <p align="center"> 
