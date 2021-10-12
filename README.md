@@ -26,8 +26,8 @@ I chose the X-wing spaceship. The X-wing is a class of **starfighter** used by t
 * **Crew** : 1 Pilot, 1 Astromech droid
 
 <p align="left"> 
-  <img src=https://user-images.githubusercontent.com/63778269/136938199-a0aef6a3-adeb-4e30-8a03-e5ff38cbbd26.PNG width=400/>
-  <img src = https://user-images.githubusercontent.com/63778269/136938643-7c0faadb-f234-41c3-b872-93461c3ca1c8.jpg width=475/>  
+  <img src=https://user-images.githubusercontent.com/63778269/136938199-a0aef6a3-adeb-4e30-8a03-e5ff38cbbd26.PNG width=375/>
+  <img src = https://user-images.githubusercontent.com/63778269/136938643-7c0faadb-f234-41c3-b872-93461c3ca1c8.jpg width=450/>  
 </p>
 
 <br/>
@@ -56,12 +56,12 @@ The X shape of the X wing made the modeling easier. I just had to do the body an
 
 <br/>
 <p align="left"> 
-  <img src=https://user-images.githubusercontent.com/63778269/136952485-a24e354c-1dcd-4182-9f13-2fb30dc7154a.PNG width=350/>
-  <img src=https://user-images.githubusercontent.com/63778269/136952492-8aac6f11-c9fd-41a1-97f0-89a0896e1b05.PNG width=500/>
+  <img src=https://user-images.githubusercontent.com/63778269/136952485-a24e354c-1dcd-4182-9f13-2fb30dc7154a.PNG width=300/>
+  <img src=https://user-images.githubusercontent.com/63778269/136952492-8aac6f11-c9fd-41a1-97f0-89a0896e1b05.PNG width=450/>
 </p>
 <p align="left"> 
-  <img src=https://user-images.githubusercontent.com/63778269/136952490-0b43c87e-9ceb-421f-acaf-d285ffdff08d.PNG width=350/>
-  <img src=https://user-images.githubusercontent.com/63778269/136952494-616c2390-d1d2-42fb-a632-96ef1dd354bd.PNG width=550/>
+  <img src=https://user-images.githubusercontent.com/63778269/136952490-0b43c87e-9ceb-421f-acaf-d285ffdff08d.PNG width=300/>
+  <img src=https://user-images.githubusercontent.com/63778269/136952494-616c2390-d1d2-42fb-a632-96ef1dd354bd.PNG width=500/>
 </p>
 <br/>
 
