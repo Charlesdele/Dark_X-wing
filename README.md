@@ -26,8 +26,8 @@ I chose the X-wing spaceship. The X-wing is a class of **starfighter** used by t
 * **Crew** : 1 Pilot, 1 Astromech droid
 
 <p align="left"> 
-  <img src=https://user-images.githubusercontent.com/63778269/136938199-a0aef6a3-adeb-4e30-8a03-e5ff38cbbd26.PNG width=375/>
-  <img src = https://user-images.githubusercontent.com/63778269/136938643-7c0faadb-f234-41c3-b872-93461c3ca1c8.jpg width=450/>  
+  <img src=https://user-images.githubusercontent.com/63778269/136938199-a0aef6a3-adeb-4e30-8a03-e5ff38cbbd26.PNG width=350/>
+  <img src = https://user-images.githubusercontent.com/63778269/136938643-7c0faadb-f234-41c3-b872-93461c3ca1c8.jpg width=425/>  
 </p>
 
 <br/>
